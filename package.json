@@ -1,5 +1,5 @@
 {
-  "name": "react-native-awesome-module",
+  "name": "@theanujyadav/react-native-awesome-module",
   "version": "0.1.0",
   "description": "mast module",
   "main": "lib/commonjs/index",
